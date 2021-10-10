@@ -1,6 +1,6 @@
 --Contador modulo 525 10 bits
 --Luis Angel Terrazas Garcia
---Italia Yizreel Suarez Campos
+
 
 library ieee;
 use ieee.std_logic_1164.all;
